@@ -1,0 +1,2 @@
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'peperez' for key 'nombreUsuario'0.33815400 1738523828
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'peperez' for key 'nombreUsuario'0.87016100 1738523839

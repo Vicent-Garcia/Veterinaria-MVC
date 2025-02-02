@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(248, 234, 213);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.titulo{
+    border: black, 2px, solid;
+    background-color: bisque;
+    text-align: center;
+}
+
+.pie{
+    border: black, 2px, solid;
+    background-color: bisque;
+    text-align: center;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-color: rgb(245, 184, 111);
+    padding: 10px 0;
+    box-shadow: 2px 2px 5px rgba(8, 8, 8, 0.5); 
+    
+}
+
+.bnav {
+    background-color: rgb(255, 250, 244);
+    color: #530a0a; 
+    border: 2px solid rgb(245, 184, 111);
+    padding: 10px 20px;
+    border-radius: 50px;
+    margin: 0 10px; 
+    text-decoration: none; 
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+    display: inline-block;
+}
+
+
+.bnav:hover {
+    background-color: #ffe190;
+    color: white;
+    border-color: white;
+    text-decoration: none;
+}
+
+#contenido {
+    text-align: center; 
+}
+
+.img-mediana {
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 2%;
+}
+
+.saludo{
+    font-weight: 100;
+    font-style: italic;
+    margin-right: 1%;
+    text-decoration: none;
+    color:#530a0a;
+}
+
+.fotoSaludo{
+    border-radius: 20px;
+    height: 70px;
+    width: auto;
+}
+
+.tabla{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.cabecera{
+    font-weight: bold;
+}
+
+.sobreNosotros{
+    text-align: justify;
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
